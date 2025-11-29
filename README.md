@@ -1,4 +1,4 @@
-# Telegram Online Status Tracker
+# Telegram Online Status Collector
 
 ![Banner](banner.png)
 
